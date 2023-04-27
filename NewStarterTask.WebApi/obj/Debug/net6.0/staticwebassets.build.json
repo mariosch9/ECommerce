@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DCkez6Tq4EbFMdwj8zwxrh6uzTwrtYAu2OmGFBEREWg=",
+  "Source": "NewStarterTask.WebApi",
+  "BasePath": "_content/NewStarterTask.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

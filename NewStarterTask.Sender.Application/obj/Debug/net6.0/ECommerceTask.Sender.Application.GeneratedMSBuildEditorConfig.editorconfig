@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ECommerceTask.Sender.Application
+build_property.RootNamespace = ECommerceTask.Sender.Application
+build_property.ProjectDir = C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.Application\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.Application
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Capabilities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FwYWJpbGl0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Capabilities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FwYWJpbGl0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Capabilities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FwYWJpbGl0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Capabilities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FwYWJpbGl0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Capabilities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FwYWJpbGl0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategoryCapabilities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3J5Q2FwYWJpbGl0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategoryCapabilities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3J5Q2FwYWJpbGl0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategoryCapabilities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3J5Q2FwYWJpbGl0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategoryCapabilities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3J5Q2FwYWJpbGl0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/ShipCategoryCapabilities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcENhdGVnb3J5Q2FwYWJpbGl0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Ships/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Ships/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Ships/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Ships/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Ships/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Squads/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3F1YWRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Squads/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3F1YWRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Squads/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3F1YWRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Squads/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3F1YWRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Squads/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3F1YWRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/newstartertask-jcgp/NewStarterTask.Sender.Application/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-esbkwf7q6j

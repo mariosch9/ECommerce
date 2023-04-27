@@ -1,0 +1,381 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.WebApi\\ECommerceTask.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj",
+        "projectName": "NewStarterTask.Core",
+        "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj",
+        "packagesPath": "C:\\Users\\mariosc\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mariosc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://libget/nuget/DerivcoLib": {},
+          "https://pkgs.dev.azure.com/Derivco/_packaging/SportsBookLib/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/DerivcoLondon/_packaging/ArtifactDirectory/nuget/v3/index.json": {},
+          "https://proget.derivcosports.com/nuget/Logging/": {},
+          "https://proget.derivcosports.com/nuget/QA/": {},
+          "https://proget.derivcosports.com/nuget/dashboard/": {},
+          "https://proget.derivcosports.com/nuget/derivcolib.cache": {},
+          "https://proget.derivcosports.com/nuget/derivcolib.cache/": {},
+          "https://proget.derivcosports.com/nuget/nuget.org": {},
+          "https://proget.derivcosports.com/nuget/services": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Aquifer.DataPipe.Common": {
+              "target": "Package",
+              "version": "[1.3.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Sender.BusinessLogic\\NewStarterTask.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Sender.BusinessLogic\\NewStarterTask.BusinessLogic.csproj",
+        "projectName": "NewStarterTask.BusinessLogic",
+        "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Sender.BusinessLogic\\NewStarterTask.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\mariosc\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Sender.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mariosc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://libget/nuget/DerivcoLib": {},
+          "https://pkgs.dev.azure.com/Derivco/_packaging/SportsBookLib/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/DerivcoLondon/_packaging/ArtifactDirectory/nuget/v3/index.json": {},
+          "https://proget.derivcosports.com/nuget/Logging/": {},
+          "https://proget.derivcosports.com/nuget/QA/": {},
+          "https://proget.derivcosports.com/nuget/dashboard/": {},
+          "https://proget.derivcosports.com/nuget/derivcolib.cache": {},
+          "https://proget.derivcosports.com/nuget/derivcolib.cache/": {},
+          "https://proget.derivcosports.com/nuget/nuget.org": {},
+          "https://proget.derivcosports.com/nuget/services": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj": {
+                "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj"
+              },
+              "C:\\Dev\\newstartertask-jcgp\\NewStaterTask.Sender.Data\\NewStaterTask.Data.csproj": {
+                "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStaterTask.Sender.Data\\NewStaterTask.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Aquifer.DataPipe.Common": {
+              "target": "Package",
+              "version": "[1.3.11, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Common": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.WebApi\\ECommerceTask.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.WebApi\\ECommerceTask.WebApi.csproj",
+        "projectName": "ECommerceTask.WebApi",
+        "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.WebApi\\ECommerceTask.WebApi.csproj",
+        "packagesPath": "C:\\Users\\mariosc\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mariosc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://libget/nuget/DerivcoLib": {},
+          "https://pkgs.dev.azure.com/Derivco/_packaging/SportsBookLib/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/DerivcoLondon/_packaging/ArtifactDirectory/nuget/v3/index.json": {},
+          "https://proget.derivcosports.com/nuget/Logging/": {},
+          "https://proget.derivcosports.com/nuget/QA/": {},
+          "https://proget.derivcosports.com/nuget/dashboard/": {},
+          "https://proget.derivcosports.com/nuget/derivcolib.cache": {},
+          "https://proget.derivcosports.com/nuget/derivcolib.cache/": {},
+          "https://proget.derivcosports.com/nuget/nuget.org": {},
+          "https://proget.derivcosports.com/nuget/services": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj": {
+                "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj"
+              },
+              "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Sender.BusinessLogic\\NewStarterTask.BusinessLogic.csproj": {
+                "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Sender.BusinessLogic\\NewStarterTask.BusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\newstartertask-jcgp\\NewStaterTask.Sender.Data\\NewStaterTask.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\newstartertask-jcgp\\NewStaterTask.Sender.Data\\NewStaterTask.Data.csproj",
+        "projectName": "NewStaterTask.Data",
+        "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStaterTask.Sender.Data\\NewStaterTask.Data.csproj",
+        "packagesPath": "C:\\Users\\mariosc\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\newstartertask-jcgp\\NewStaterTask.Sender.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mariosc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://libget/nuget/DerivcoLib": {},
+          "https://pkgs.dev.azure.com/Derivco/_packaging/SportsBookLib/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/DerivcoLondon/_packaging/ArtifactDirectory/nuget/v3/index.json": {},
+          "https://proget.derivcosports.com/nuget/Logging/": {},
+          "https://proget.derivcosports.com/nuget/QA/": {},
+          "https://proget.derivcosports.com/nuget/dashboard/": {},
+          "https://proget.derivcosports.com/nuget/derivcolib.cache": {},
+          "https://proget.derivcosports.com/nuget/derivcolib.cache/": {},
+          "https://proget.derivcosports.com/nuget/nuget.org": {},
+          "https://proget.derivcosports.com/nuget/services": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj": {
+                "projectPath": "C:\\Dev\\newstartertask-jcgp\\NewStarterTask.Common\\NewStarterTask.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

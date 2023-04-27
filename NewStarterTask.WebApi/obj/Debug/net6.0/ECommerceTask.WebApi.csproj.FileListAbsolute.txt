@@ -1,0 +1,7 @@
+C:\Dev\newstartertask-jcgp\NewStarterTask.WebApi\obj\Debug\net6.0\ECommerceTask.WebApi.csproj.AssemblyReference.cache
+C:\Dev\newstartertask-jcgp\NewStarterTask.WebApi\obj\Debug\net6.0\ECommerceTask.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\newstartertask-jcgp\NewStarterTask.WebApi\obj\Debug\net6.0\ECommerceTask.WebApi.AssemblyInfoInputs.cache
+C:\Dev\newstartertask-jcgp\NewStarterTask.WebApi\obj\Debug\net6.0\ECommerceTask.WebApi.AssemblyInfo.cs
+C:\Dev\newstartertask-jcgp\NewStarterTask.WebApi\obj\Debug\net6.0\ECommerceTask.WebApi.csproj.CoreCompileInputs.cache
+C:\Dev\newstartertask-jcgp\NewStarterTask.WebApi\obj\Debug\net6.0\ECommerceTask.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\newstartertask-jcgp\NewStarterTask.WebApi\obj\Debug\net6.0\ECommerceTask.WebApi.MvcApplicationPartsAssemblyInfo.cache

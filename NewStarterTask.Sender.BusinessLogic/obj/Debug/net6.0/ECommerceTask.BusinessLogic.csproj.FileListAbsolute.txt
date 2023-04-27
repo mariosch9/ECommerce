@@ -1,0 +1,17 @@
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\bin\Debug\net6.0\ECommerceTask.BusinessLogic.deps.json
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\bin\Debug\net6.0\ECommerceTask.BusinessLogic.dll
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\bin\Debug\net6.0\ECommerceTask.BusinessLogic.pdb
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\bin\Debug\net6.0\NewStarterTask.Core.dll
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\bin\Debug\net6.0\NewStaterTask.Data.dll
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\bin\Debug\net6.0\NewStarterTask.Core.pdb
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\bin\Debug\net6.0\NewStaterTask.Data.pdb
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ECommerceTask.BusinessLogic.csproj.AssemblyReference.cache
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ECommerceTask.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ECommerceTask.BusinessLogic.AssemblyInfoInputs.cache
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ECommerceTask.BusinessLogic.AssemblyInfo.cs
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ECommerceTask.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ECommerceTask.BusinessLogic.csproj.CopyComplete
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ECommerceTask.BusinessLogic.dll
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\refint\ECommerceTask.BusinessLogic.dll
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ECommerceTask.BusinessLogic.pdb
+C:\Dev\newstartertask-jcgp\NewStarterTask.Sender.BusinessLogic\obj\Debug\net6.0\ref\ECommerceTask.BusinessLogic.dll
